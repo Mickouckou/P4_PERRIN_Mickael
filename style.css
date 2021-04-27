@@ -330,6 +330,7 @@ a:hover {
 
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
+    margin-top: 2px;
 }
 
 .nav > li a:hover,
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
