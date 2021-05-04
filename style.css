@@ -264,6 +264,11 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+.citation{
+    font-style: italic;
+    font-size: 1.4em;
+}
+
 .voffset {
     margin-top: 30px;
 }
